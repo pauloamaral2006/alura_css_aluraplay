@@ -23,7 +23,7 @@
 
 ## 🧑‍🏫 Instrutor(es)
 
-| [<img loading="lazy" src="https://media.licdn.com/dms/image/v2/C4E03AQEYV6-AbrWjSA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1644505759993?e=1747267200&v=beta&t=bTXnUPZ_3iSDiVE8a-JOD_kGyxBZylhAB5aTo_ZnsKw" width=115><br><sub>Mônica Hillman</sub>](https://www.linkedin.com/in/luanalvesdev/) |
+| [<img loading="lazy" src="https://media.licdn.com/dms/image/v2/C4E03AQEYV6-AbrWjSA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1644505759993?e=1747267200&v=beta&t=bTXnUPZ_3iSDiVE8a-JOD_kGyxBZylhAB5aTo_ZnsKw" width=115><br><sub>Luan Alves</sub>](https://www.linkedin.com/in/luanalvesdev/) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## 💻 Screenshot
